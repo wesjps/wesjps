@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Wesley Silveira, from Brazil
+Hi there 👋🏻
+I'm Carlos Levir, Software Engineer at MessageBird, working over React.Js ecosystem.
 
-- I’m a Back-End developer, with experience using NodeJS.
-- I’m currently working for an educational institution in Brazil, where I collaborate in some projects developing simulators with educational purposes.
-- You can reach me on Linkedin https://www.linkedin.com/in/wesleyjps/
+My favourites tools:  TypeScript,  React Js & React Native,  Node Js
 
-- Most of my projects are private here on GitHub, but, if you want to know about my portfolio, you can reach me through Linkedin.
+Currently learning:  GraphQL,  Apollo
 
 
