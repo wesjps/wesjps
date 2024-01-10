@@ -1,8 +1,8 @@
 Hi there 👋🏻
-I'm Carlos Levir, Software Engineer at MessageBird, working over React.Js ecosystem.
+I'm Wesley Silveira, Software Engineer at SENAI SP, working over NodeJS ecosystem.
 
-My favourites tools:  TypeScript,  React Js & React Native,  Node Js
+My favourites tools:  TypeScript,  Node Js,  Azure
 
-Currently learning:  GraphQL,  Apollo
+
 
 
