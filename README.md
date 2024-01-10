@@ -5,7 +5,7 @@
 
 <p align="left">I'm Wesley Silveira, Software Engineer at SENAI SP, working over NodeJS ecosystem.<br><br> From backend development using NodeJS to backend development using NodeJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend software engineer</strong> focused on APIs, integrations and data generation.</p>&nbsp;
 
-## <font color="#FDFD96"><img src="src/assets/cpu.svg"/> My Skills</font>
+## <font color="#FDFD96">💡 My Skills</font>
 
 #### Stacks:
 
