@@ -1,5 +1,5 @@
-<img align="center" style="margin-bottom:10px;border-radius:10px" width=80% src="src/assets/poster.png" />
-&nbsp;&nbsp;&nbsp;
+<!-- <img align="center" style="margin-bottom:10px;border-radius:10px" width=80% src="src/assets/poster.png" />
+&nbsp;&nbsp;&nbsp; -->
 
 ## <font color="#FDFD96"><img src="src/assets/person.svg"/> Who am I?</font>
 
