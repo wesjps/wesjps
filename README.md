@@ -3,7 +3,7 @@
 
 ## <font color="#FDFD96"><img src="src/assets/person.svg"/> Who am I?</font>
 
-<p align="left">I'm Wesley Silveira, Software Engineer at SENAI SP, working over NodeJS ecosystem.<br><br> From backend development using NodeJS to backend development using NodeJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend software engineer</strong> focused on APIs, integrations and data generation.</p>&nbsp;
+<p align="left">I'm Wesley Silveira, Software Engineer at SENAI SP, working over NodeJS ecosystem.<br><br> From backend development using NodeJS to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend software engineer</strong> focused on APIs, integrations and data generation.</p>&nbsp;
 
 ## <font color="#FDFD96">💡 My Skills</font>
 
