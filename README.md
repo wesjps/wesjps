@@ -1,7 +1,7 @@
 <!-- <img align="center" style="margin-bottom:10px;border-radius:10px" width=80% src="src/assets/poster.png" />
 &nbsp;&nbsp;&nbsp; -->
 
-## <font color="#FDFD96"><img src="src/assets/person.svg"/> Who am I?</font>
+## <font color="#FDFD96">👨‍💼 Who am I?</font>
 
 <p align="left">I'm Wesley Silveira, Software Engineer at SENAI SP, working over NodeJS ecosystem.<br><br> From backend development using NodeJS to frontend development using ReactJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>backend software engineer</strong> focused on APIs, integrations and data generation.</p>&nbsp;
 
@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)&nbsp;
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="src/assets/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
 
@@ -26,7 +26,7 @@
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)&nbsp;
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
@@ -36,10 +36,9 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/wesjps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.wesjps@yahoo.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wesleyjps/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href = "mailto:contato.wesjps@yahoo.com.br"> <img src="https://img.shields.io/badge/-Email-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"></a>
+
 
 </div>&nbsp;&nbsp;
 
